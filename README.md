@@ -108,10 +108,10 @@ Each product is linked to a detail page using dynamic routing. When a user click
 
 ### Screenshots
 - **(Nextjs) Frontend**: Displays product listings with sorting options.
-  *(https://github.com/Komal-shah22/Hackathon-3-day/blob/1c0c0e252e9a34de011f6776ac23e5fdb0ce9eba/(nextjs)frontend.png)*
+  ![image alt](https://github.com/Komal-shah22/Hackathon-3-day/blob/1c0c0e252e9a34de011f6776ac23e5fdb0ce9eba/(nextjs)frontend.png)
 
-- **Product Detail Page**: Shows detailed information for a specific product.
-  *(Add a screenshot here)*
+- **Populated Sanity CMS Fields**: Shows all information for a specific product.
+  ![image alt]()
 
 ---
 
